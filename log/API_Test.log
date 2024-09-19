@@ -1,0 +1,125 @@
+2024-09-11 16:57:33,028 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-11 16:57:33,043 - all_api.py - INFO - [line:43] - 接口访问出错啦~ 'NoneType' object does not support item assignment
+2024-09-11 16:59:36,531 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-11 16:59:36,545 - all_api.py - INFO - [line:43] - 接口访问出错啦~ 'NoneType' object does not support item assignment
+2024-09-11 17:00:08,848 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-11 17:00:08,861 - all_api.py - INFO - [line:43] - 接口访问出错啦~ 'NoneType' object does not support item assignment
+2024-09-11 17:01:41,118 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-11 17:01:41,130 - all_api.py - INFO - [line:43] - 接口访问出错啦~ 'NoneType' object does not support item assignment
+2024-09-11 17:03:15,754 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-11 17:03:15,768 - all_api.py - INFO - [line:43] - 接口访问出错啦~ 'NoneType' object does not support item assignment
+2024-09-11 17:03:58,421 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-11 17:03:58,473 - all_api.py - INFO - [line:43] - 接口访问出错啦~ 'NoneType' object does not support item assignment
+2024-09-11 17:05:47,755 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-11 17:05:47,768 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'NoneType' object does not support item assignment
+2024-09-11 17:06:23,987 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-11 17:06:24,000 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'NoneType' object does not support item assignment
+2024-09-11 17:09:15,970 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-11 17:09:15,982 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'NoneType' object does not support item assignment
+2024-09-11 17:09:15,982 - test_get_user_msg.py - INFO - [line:23] - res 的值为：None
+2024-09-11 17:12:13,189 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-11 17:12:13,207 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'NoneType' object does not support item assignment
+2024-09-11 17:12:13,207 - test_get_user_msg.py - INFO - [line:23] - res 的值为：None
+2024-09-11 17:24:38,935 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'NoneType' object does not support item assignment
+2024-09-11 17:24:47,519 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'NoneType' object does not support item assignment
+2024-09-11 17:29:31,666 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'str' object does not support item assignment
+2024-09-11 17:30:32,967 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-11 17:30:35,038 - test_get_user_msg.py - INFO - [line:23] - res 的值为：{'success': True, 'data': {'id': 1011, 'nickName': 'user_e47zmbhaah', 'icon': ''}}
+2024-09-11 17:31:52,988 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-11 17:31:55,063 - test_get_user_msg.py - INFO - [line:23] - res 的值为：{'success': True, 'data': {'id': 1011, 'nickName': 'user_e47zmbhaah', 'icon': ''}}
+2024-09-12 09:26:10,575 - test_login.py - INFO - [line:15] - 
+ ==============================【登录】测试用例开始 ==============================
+2024-09-12 09:26:10,625 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'data'
+2024-09-12 09:26:40,137 - test_login.py - INFO - [line:15] - 
+ ==============================【登录】测试用例开始 ==============================
+2024-09-12 09:26:40,177 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'data'
+2024-09-12 09:30:29,243 - test_login.py - INFO - [line:15] - 
+ ==============================【登录】测试用例开始 ==============================
+2024-09-12 09:30:29,303 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:32:15,430 - test_login.py - INFO - [line:15] - 
+ ==============================【登录】测试用例开始 ==============================
+2024-09-12 09:32:15,481 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:32:15,481 - test_login.py - INFO - [line:22] - res 的值为：None
+2024-09-12 09:34:05,788 - test_login.py - INFO - [line:15] - 
+ ==============================【登录】测试用例开始 ==============================
+2024-09-12 09:34:05,838 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:34:05,839 - test_login.py - INFO - [line:22] - res 的值为：None
+2024-09-12 09:36:20,234 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:36:20,234 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 09:36:47,518 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:37:08,081 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:38:34,912 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:38:34,912 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 09:41:24,870 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:41:24,871 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 09:41:55,313 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:41:55,313 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 09:48:00,203 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:48:00,205 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 09:48:09,137 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:48:09,137 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 09:49:55,808 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:49:55,809 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 09:50:13,352 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:50:13,352 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 09:50:48,561 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:50:48,561 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 09:51:10,910 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 09:51:10,911 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 09:52:42,463 - all_api.py - INFO - [line:42] - 接口访问出错啦~ Expecting value: line 1 column 1 (char 0)
+2024-09-12 09:52:42,463 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 09:52:56,983 - prerun.py - INFO - [line:11] - res 的值为：{'success': False, 'errorMsg': '服务器异常'}
+2024-09-12 09:53:08,868 - prerun.py - INFO - [line:11] - res 的值为：{'success': False, 'errorMsg': '服务器异常'}
+2024-09-12 09:53:25,174 - prerun.py - INFO - [line:11] - res 的值为：{'success': False, 'errorMsg': '服务器异常'}
+2024-09-12 09:53:39,824 - prerun.py - INFO - [line:11] - res 的值为：{'success': False, 'errorMsg': '服务器异常'}
+2024-09-12 10:00:58,716 - all_api.py - INFO - [line:42] - 接口访问出错啦~ Expecting value: line 1 column 1 (char 0)
+2024-09-12 10:00:58,717 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 10:01:19,555 - prerun.py - INFO - [line:11] - res 的值为：{'success': False, 'errorMsg': '服务器异常'}
+2024-09-12 10:01:33,767 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'data'
+2024-09-12 10:01:33,768 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 10:02:00,663 - all_api.py - INFO - [line:42] - 接口访问出错啦~ 'RunMethod' object has no attribute 'post_main'
+2024-09-12 10:02:00,663 - prerun.py - INFO - [line:11] - res 的值为：None
+2024-09-12 10:02:58,029 - prerun.py - INFO - [line:11] - res 的值为：{'success': True}
+2024-09-12 10:03:30,612 - test_login.py - INFO - [line:15] - 
+ ==============================【登录】测试用例开始 ==============================
+2024-09-12 10:03:32,682 - test_login.py - INFO - [line:22] - res 的值为：{'success': True}
+2024-09-12 10:11:20,452 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-12 10:11:24,596 - all_api.py - INFO - [line:42] - 接口访问出错啦~ Expecting value: line 1 column 1 (char 0)
+2024-09-12 10:11:24,597 - test_get_user_msg.py - INFO - [line:23] - res 的值为：None
+2024-09-12 10:11:52,842 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-12 10:11:55,213 - test_get_user_msg.py - INFO - [line:23] - res 的值为：{'success': True, 'data': {'id': 1011, 'nickName': 'user_e47zmbhaah', 'icon': ''}}
+2024-09-12 10:16:47,510 - test_login.py - INFO - [line:15] - 
+ ==============================【登录】测试用例开始 ==============================
+2024-09-12 10:17:23,373 - test_get_user_msg.py - INFO - [line:15] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-12 10:17:25,455 - test_get_user_msg.py - INFO - [line:23] - res 的值为：{'success': True, 'data': {'id': 1011, 'nickName': 'user_e47zmbhaah', 'icon': ''}}
+2024-09-12 10:17:36,733 - test_login.py - INFO - [line:15] - 
+ ==============================【登录】测试用例开始 ==============================
+2024-09-12 10:36:47,641 - test_blog.py - INFO - [line:13] - 
+ ==============================探店笔记测试用例开始 ==============================
+2024-09-12 10:36:50,408 - test_blog.py - INFO - [line:21] - res 的值为：{'success': False, 'errorMsg': '笔记不存在！'}
+2024-09-12 10:37:12,896 - test_blog.py - INFO - [line:13] - 
+ ==============================探店笔记测试用例开始 ==============================
+2024-09-12 10:38:48,377 - test_blog.py - INFO - [line:13] - 
+ ==============================探店笔记测试用例开始 ==============================
+2024-09-12 10:40:17,994 - test_blog.py - INFO - [line:13] - 
+ ==============================探店笔记测试用例开始 ==============================
+2024-09-12 10:40:20,103 - test_get_user_msg.py - INFO - [line:13] - 
+ ==============================获取用户信息测试用例开始 ==============================
+2024-09-12 10:40:22,186 - test_get_user_msg.py - INFO - [line:21] - res 的值为：{'success': True, 'data': {'id': 1011, 'nickName': 'user_e47zmbhaah', 'icon': ''}}
+2024-09-12 10:40:22,190 - test_login.py - INFO - [line:15] - 
+ ==============================【登录】测试用例开始 ==============================
